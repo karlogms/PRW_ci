@@ -2,7 +2,7 @@ Projeto feito na aula de PRW na ETEC JK - 3B noturno
 
 
 Karlo Rodrigo
-Ravel Soares
+Ravel S.S
 João Vitor
 Karen Martins
 Bruno Henrique
