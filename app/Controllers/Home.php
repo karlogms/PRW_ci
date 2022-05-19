@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Controllers;
+namespace App\Models\loginModels;
 
 class Home extends BaseController
 {
@@ -8,7 +9,7 @@ class Home extends BaseController
     {
 
         $dados=$this->request->getPost();
-        $model = model("\app\models\banco");
+        $model = new loginModels();
         $model->where('nome', $nome);
         return view('cadastrar/cadastro');
 
