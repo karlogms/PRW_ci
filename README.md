@@ -8,6 +8,4 @@ Karen Martins
 Bruno Henrique
 Gustavo Oliveira
 
-
-
-OBS: Nosso antigo repositório deu problema, mas resolvemos com vocÊ em aula. Por isso temos apenas um commit
+OBS: Pedro Albertini é a Karen. Tivemos um problema no login na maquina da Etec :)
