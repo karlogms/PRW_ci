@@ -7,9 +7,8 @@ class Home extends BaseController
 {
     public function index()
     {
-        $this->load->view('html_header');
+        $this->load->view('header');
         $this->load->view('conteudo');
-        $this->load->view('menu_categorias');
         $this->load->view('rodape');
 
 
