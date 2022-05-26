@@ -8,4 +8,4 @@ Karen Martins
 Bruno Henrique
 Gustavo Oliveira
 
-OBS: Pedro Albertini é a Karen. Tivemos um problema no login na maquina da Etec :)
+OBS: Por questões de erro ao usuário no repositório, "Pedro Albertini" é a Karen e o João Vitor. Tivemos um problema no login na maquina da Etec :)
